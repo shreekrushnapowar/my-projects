@@ -8,7 +8,6 @@ import Resetpass from './components/Resetpass';
 import Signup from './components/Signup';
 import Momentstate from './context/moment/Momentstate';
 import "./index.css"
-
 // https://undraw.co/illustrations
 const App = () => {
   return (
